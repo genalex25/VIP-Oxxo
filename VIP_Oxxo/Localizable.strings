@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Counters
+*/
+
+// MARK: - App Name
+"APP_NAME" = "OXXO";
+// MARK: - Welcome
+"WELCOME_TITLE"                           = "Welcome to OXXO";
+"WELCOME_DESCRIPTION"                     = "Test to validate development skills";
+"WELCOME_ADD_FEATURE_TITLE"               = "All pokemon in u hand";
+"WELCOME_ADD_FEATURE_DESCRIPTION"         = "You have the possibility to visualize all the pokemon that exist.";
+"WELCOME_COUNT_SHARE_FEATURE_TITLE"       = "Pokemon detail";
+"WELCOME_COUNT_SHARE_FEATURE_DESCRIPTION" = "Well explained detail of each pokemon";
+"WELCOME_COUNT_FEATURE_TITLE"             = "Save your favorites";
+"WELCOME_COUNT_FEATURE_DESCRIPTION"       = "Sae on your local phone your best pokemon.";
+"WELCOME_PRIMARY_ACTION_TITLE"            = "Continue";
+"WELCOME_TITLE"                           = "Pokemons";
+
